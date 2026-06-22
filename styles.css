@@ -15,12 +15,12 @@
   border-bottom: 1px solid var(--background-modifier-border);
 }
 
-.js-runner-pre {
-  margin: 0 !important;
-  padding: 0.85em 1em !important;
-  background: transparent !important;
-  border: none !important;
-  border-radius: 0 !important;
+.js-runner-wrapper .js-runner-pre {
+  margin: 0;
+  padding: 0.85em 1em;
+  background: transparent;
+  border: none;
+  border-radius: 0;
 }
 
 .js-runner-code {
