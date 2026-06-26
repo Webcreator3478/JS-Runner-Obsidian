@@ -6,7 +6,7 @@ Versioning follows [Semantic Versioning](https://semver.org/).
 
 ---
 
-## 1.0.0
+## 0.0.1
 
 Initial public release.
 
