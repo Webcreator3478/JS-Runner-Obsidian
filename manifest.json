@@ -1,7 +1,7 @@
 {
   "id": "js-runner-upgraded",
   "name": "JS Runner Upgraded",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "minAppVersion": "1.0.0",
   "description": "Run JavaScript directly inside your Markdown notes using ```js-run code blocks.",
   "author": "Jktaisa",
