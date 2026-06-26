@@ -1,4 +1,4 @@
-# JS Runner — Obsidian Plugin
+# JS Runner Upgraded — Obsidian Plugin
 
 Run JavaScript directly inside your `.md` notes. Supports `console.log`, `async/await`, return values, and full access to the Obsidian `app` API.
 
